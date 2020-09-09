@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "black" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sunpill Kim"
+title                    : "CYJ"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Sunpill Kim"
-description              : "Sunpill Kim"
+name                     : "CYJ"
+description              : "CYJ"
 url                      : "https://sunpill.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"Sunpill/Sunpill.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sunpill Kim"
+  name             : "CYJ"
   avatar           : "/assets/images/ksp.jpg"
-  bio              : "Hello! I am researcher interested in applied cryptography especially as it relates to zero-knowledge proof and biometric with deep learning. Currently I am pursuing M.S. degree in applied mathemathics at Hanyang University and am advised by Jae Hong Seo in Cryptology & Algorithm Lab."
+  bio              : "CYJ~~~~~~~~~!!!!!!"
   location         : "South Korea"
   email            : "ksp0352@gmail.com"
   github : "Sunpill"
