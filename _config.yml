@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "CYJ"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "CYJ"
+name                     : "Chanyang, Ju"
 description              : "CYJ"
 url                      : "https://chanyangju.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,11 +94,11 @@ analytics:
 # Site Author
 author:
   name             : "CYJ"
-  avatar           : "/assets/images/ksp.jpg"
+  avatar           : "/assets/images/jcy.jpg"
   bio              : "CYJ~~~~~~~~~!!!!!!"
   location         : "South Korea"
-  email            : "ksp0352@gmail.com"
-  github : "Sunpill"
+  email            : "chanyangju@hanyang.ac.kr"
+  github : "Chanyang"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
