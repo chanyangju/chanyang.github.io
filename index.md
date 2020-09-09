@@ -5,7 +5,7 @@ classes: wide
 author_profile: true
 excerpt: 'Hello World !'
 header:
-  overlay_image: /assets/images/PH.jpg
+  overlay_image: /assets/images/DSC00125.JPG
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
