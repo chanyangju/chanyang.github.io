@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CYJ123"
+title                    : "CYJ"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "CYJ"
 description              : "CYJ"
-url                      : "https://sunpill.github.io"
+url                      : "https://chanyangju.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"Sunpill/Sunpill.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/ksp.jpg
