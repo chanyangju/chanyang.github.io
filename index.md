@@ -1,5 +1,5 @@
 ---
-title: "Sunpill Kim"
+title: "Chanyang Ju"
 layout: single
 classes: wide
 author_profile: true
